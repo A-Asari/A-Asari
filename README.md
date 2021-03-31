@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @A-Asari
-- 👀 I’m interested in Python, AI, blockchain, IOT, Datascience, security, etc
+- 👀 I’m interested in Python, AI, blockchain, IOT, Datascience, security, and other technologies
 - 🌱 I’m currently learning python, linux
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me E-mail : amirreza.asari2@gmail.com
